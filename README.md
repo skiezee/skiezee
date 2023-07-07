@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musyafa Fadila</h1>
+<h1 align="center">Hi 👋, I'm Skiezee</h1>
 <h3 align="center">an individual who is learning programming in order to think logic</h3>
 
 - 🌱 I’m currently learning **react**
